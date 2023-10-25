@@ -68,7 +68,7 @@ public class Main {
         }
     }
 */
-/**
+/**     // Третий вариант, если не нужны проверки длин сторон
     public static double areaSquare(double width) {
         return width * width; // S=a*a
     }
